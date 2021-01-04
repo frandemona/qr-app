@@ -1,0 +1,19 @@
+{
+  "title": "Navidad",
+  "emailLabel": "Correo Electrónico",
+  "emailValidator": "Por favor ingrese un correo electrónico válido",
+  "passwordLabel": "Contraseña",
+  "passwordValidator": "La contraseña es requerida",
+  "loginButton": "INICIAR SESIÓN",
+  "loginText": "Inicie Sesión",
+  "forgotPasswordText": "Haga click aquí si se olvidó su contraseña",
+  "errorMessageTitle": "Mensaje de Error",
+  "dialogCancel": "Cancelar",
+  "dialogOk": "Ok",
+  "forgotPasswordTitleText": "¿Olvidó su contraseña?",
+  "recoverPasswordButton": "ENVIAR LINK",
+  "recoverPasswordInfoText": "Te enviaremos un link para recuperar tu cuenta",
+  "recoverPasswordDialogMessageTitle": "Mensaje",
+  "recoverPasswordDialogMessage": "El correo electrónico con instrucciones para recuperar tu cuenta fue enviado",
+  "back": "VOLVER"
+}

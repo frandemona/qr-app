@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>793154832020-0gn2j9odqijpe6cmbh4nc1tote92denj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.793154832020-0gn2j9odqijpe6cmbh4nc1tote92denj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAit7CeZjPRIanos3eE0VFM1NcEyIKgBK4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>793154832020</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.navidad.qr.party</string>
+	<key>PROJECT_ID</key>
+	<string>navidad-cbac1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>navidad-cbac1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:793154832020:ios:0ab5225121feac30975681</string>
+</dict>
+</plist>

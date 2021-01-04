@@ -1,0 +1,19 @@
+{
+  "title": "Navidad",
+  "emailLabel": "Email Address",
+  "emailValidator": "Please enter a valid email address",
+  "passwordLabel": "Password",
+  "passwordValidator": "Password is required",
+  "loginButton": "LOGIN",
+  "loginText": "Please, Sign In",
+  "forgotPasswordText": "Click here if you forgot your password",
+  "errorMessageTitle": "Error Message",
+  "dialogCancel": "Cancel",
+  "dialogOk": "Ok",
+  "forgotPasswordTitleText": "Forgot Password?",
+  "recoverPasswordButton": "SEND LINK",
+  "recoverPasswordInfoText": "We’ll send you a link to recover your account",
+  "recoverPasswordDialogMessageTitle": "Message",
+  "recoverPasswordDialogMessage": "The email with recovering instructions for your account was sent",
+  "back": "BACK"
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "793154832020",
+    "project_id": "navidad-cbac1",
+    "storage_bucket": "navidad-cbac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793154832020:android:61e88e44718d1dc9975681",
+        "android_client_info": {
+          "package_name": "com.navidad.qr.party"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793154832020-d8cicuu6ags2llq2f1pklq36kbr1qf78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ZQGR0Is0wB6qI2_kt3xjB0oYeuqelHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793154832020-d8cicuu6ags2llq2f1pklq36kbr1qf78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793154832020-0gn2j9odqijpe6cmbh4nc1tote92denj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.navidad.qr.party"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
